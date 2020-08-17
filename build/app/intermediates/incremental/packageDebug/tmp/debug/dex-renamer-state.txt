@@ -1,0 +1,4 @@
+#Thu Jul 23 17:04:01 BDT 2020
+base.0=/home/lota/AndroidStudioProjects/flutter-appium-example/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
